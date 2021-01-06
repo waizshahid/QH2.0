@@ -25,9 +25,9 @@ class LandingPage2 extends Component {
                                     nextStep={this.props.nextStep} freecar="Free Car Insurance" qoute="Qoute" />
                                 {/*-------------------- Separate Component for Bottom Tag----------------------- */} 
 
-                                  <Div style={{marginTop:" 75px"}}>   
+                                  {/* <Div style={{marginTop:" 75px"}}>   
                                      <BottomTag/>              
-                                    </Div>
+                                    </Div> */}
                          </Div>
 
                          <Div className="col-lg-6 col-md-6 col-sm-12 " >

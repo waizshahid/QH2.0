@@ -4,6 +4,83 @@
         margin-top:35px;
 }
 
+
+
+@media only screen and (max-width: 4200px) {
+    .LandingPage3-image{
+       margin-left: 750px;
+    }
+}
+@media only screen and (max-width: 4000px) {
+    .LandingPage3-image{
+       margin-left: 720px;
+     
+    }
+}
+@media only screen and (max-width: 3800px) {
+    .LandingPage3-image{
+       margin-left: 670px;
+    }
+}
+@media only screen and (max-width: 3600px) {
+    .LandingPage3-image{
+       margin-left: 590px;
+    }
+}
+@media only screen and (max-width: 3400px) {
+    .LandingPage3-image{
+       margin-left: 500px;
+    }
+}
+@media only screen and (max-width: 3200px) {
+    .LandingPage3-image{
+       margin-left: 470px;
+    
+    }
+}
+@media only screen and (max-width: 3000px) {
+    .LandingPage3-image{
+       margin-left: 450px;
+    }
+}
+@media only screen and (max-width: 2800px) {
+    .LandingPage3-image{
+        margin-left: 400px;
+     }
+ }
+@media only screen and (max-width: 2600px) {
+    .LandingPage3-image{
+       margin-left: 350px;
+    }
+}
+@media only screen and (max-width: 2400px) {
+    .LandingPage3-image{
+       margin-left: 290px;
+    
+     
+    }
+}
+@media only screen and (max-width: 2200px) {
+    .LandingPage3-image{
+       margin-left: 230px;
+    }
+}
+@media only screen and (max-width: 2000px) {
+    .LandingPage3-image{
+       margin-left: 190px;
+    }
+}
+@media only screen and (max-width: 1700px) {
+    .LandingPage3-image{
+       margin-left: 80px;
+    }}
+    @media only screen and (max-width: 1500px) {
+    .LandingPage3-image{
+       margin-left: 40px;
+    }
+}
+
+
 @media only screen and (max-width: 1100px) {
     .LandingPage3-image{
         width:100%;

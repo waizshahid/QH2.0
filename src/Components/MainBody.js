@@ -170,7 +170,7 @@ class MainBody extends Component {
 					</Div>
 
 					<Div className='col-6 '>
-						<Button className='input_button' onClick={() => this.move()}></Button>
+						<Button className='input_button' onClick={() => this.move()}>Get Your Free <br/> Qoute</Button>
 					</Div>
 				</Div>
 

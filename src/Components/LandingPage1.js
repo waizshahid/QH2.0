@@ -18,7 +18,7 @@ class LandingPage1 extends Component {
 
     <>
 
-           <Div  className="Container">
+           <Div  className="Container landing-page-1" >
                
                  <Div className="row">
 
@@ -36,7 +36,7 @@ class LandingPage1 extends Component {
                     {/*-------------------- Separate Component for Images----------------------- */}
                             <ImagesLine />
                     {/*-------------------- Separate Component for Bottom Tag----------------------- */} 
-                            <BottomTag/>
+                            {/* <BottomTag/> */}
                 
                                    </Div>
 

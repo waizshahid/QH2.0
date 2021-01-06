@@ -260,7 +260,7 @@ import React, { Component } from 'react';
         </BrowserRouter>
        
 
-   <StepWizard initialStep={1}>
+    <StepWizard initialStep={1} >
   
   <LandingPage1
 
@@ -316,10 +316,8 @@ import React, { Component } from 'react';
   
  
 
-//
-
-  />
-  {/* <LandingPage2
+  /> 
+  <LandingPage2
   
   // address={(value) =>
 
@@ -369,7 +367,7 @@ import React, { Component } from 'react';
 }
   }
   /> 
-   */}
+  
    <Step2
  
   first_name={(value) =>
@@ -562,8 +560,8 @@ vehicle_ownership={(value) =>
  
   />
    <Step_11_LastPage/>
-</StepWizard>  
-
+</StepWizard>   
+ 
 
 </ThemeProvider>
      );

@@ -52,7 +52,7 @@ class LandingPage3 extends Component {
 
        </Div> */}
                                 {/*-------------------- Separate Component for Bottom Tag----------------------- */} 
-                                     <BottomTag/>
+                                     {/* <BottomTag/> */}
 
                                      
 
